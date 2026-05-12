@@ -4,7 +4,7 @@
 
 ## Overview Dashboard
 
-![Overview Dashboard](assets\overview.png)
+![Overview Dashboard](assets/overview.png)
 
 ## Business Problem
 
@@ -74,15 +74,15 @@ Customer Feedback Score
 
 ### Conversion Rate Analytics Dashboard
 
-![< Conversion Rate Analytics >](assets\conversion.png)
+![< Conversion Rate Analytics >](assets/conversion.png)
 
 ### Social Media Analytics Dashboard
 
-![<PAGE_NAME>](assets\social_media.png)
+![<PAGE_NAME>](assets/social_media.png)
 
 ### Customer Review/Sentiment Analytics Dashboard
 
-![<PAGE_NAME>](assets\customer_review.png)
+![<PAGE_NAME>](assets/customer_review.png)
 
 ## Recommendations Summary
 
