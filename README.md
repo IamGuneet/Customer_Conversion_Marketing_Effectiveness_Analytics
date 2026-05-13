@@ -92,6 +92,13 @@ Customer Feedback Score
 
 3. **Close the feedback loop** systematically track mixed and negative reviews, address recurring themes, and re engage dissatisfied customers
 
+## About the Data Set
+
+1. 100 customers
+2. 4k customer journeys
+3. 1.5k customers reviews
+4. 4.5k engagement data 
+
 ## Author
 
 **Guneet Singh**  
